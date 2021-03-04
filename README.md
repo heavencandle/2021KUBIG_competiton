@@ -29,7 +29,7 @@ For example if we measuring the ambient temperature ‘T’ then the histogram c
 
 
 ### 2) 모델
-- cost function = $$C = $$
+- cost function = $C = $
 
 ### 3) Performance
 
