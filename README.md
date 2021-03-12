@@ -19,7 +19,8 @@ For example if we measuring the ambient temperature ‘T’ then the histogram c
 
 ---
 # 2. Models and Performances
-### 0) Summary: The best model was `Random Forest` with `loss: `, `precision: `, `recall: `. (Based on Test_answer.csv)
+### 0) Summary
+  - The best model was `Random Forest` with `loss: `, `precision: `, `recall: `. (Based on Test_answer.csv)
 ### 1) Data Preprocessing
 ### 2) Model
 #### 2-1) Random Forest
